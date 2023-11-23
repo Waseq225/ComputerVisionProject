@@ -1,6 +1,5 @@
 
-### 1. AWS Setup
-- **Create an AWS Account**: If you don’t already have an AWS account, create one.
+### 1. IAM Setup
 - **AWS IAM (Identity and Access Management)**: Set up IAM users and roles with the necessary permissions for accessing AWS services.
 
 ### 2. Data Storage and Management
