@@ -42,13 +42,4 @@
 6. Use Lambda functions to send video frames to the SageMaker Endpoint for inference.
 7. Expose the model through API Gateway for client applications.
 
-### Benefits of Using AWS:
-- **Scalability**: Easily handle large datasets and scale your computing resources.
-- **Flexibility**: Choose from a wide range of tools and services.
-- **Security and Compliance**: AWS provides secure and compliant infrastructure.
-
-### Considerations:
-- **Cost**: AWS services are pay-as-you-go. Keep an eye on your usage to manage costs.
-- **Learning Curve**: Familiarize yourself with AWS services and best practices.
-
 This approach leverages the power of AWS to handle large-scale data storage, complex machine learning model training, and real-time video processing, making it a robust solution for logo detection in video streams.
